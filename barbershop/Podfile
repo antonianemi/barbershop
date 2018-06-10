@@ -8,6 +8,6 @@ target 'barbershop' do
   # Pods for barbershop
 
   pod 'Firebase/Core'
-  
+  pod 'Firebase/Auth'
 
 end
