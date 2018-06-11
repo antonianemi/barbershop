@@ -8,7 +8,7 @@
 
 import UIKit
 import Firebase
-class ViewController: UIViewController {
+class VCLogIn: UIViewController {
 
     @IBOutlet weak var txt_username: UITextField!
     @IBOutlet weak var txt_password: UITextField!
